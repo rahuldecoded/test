@@ -1,0 +1,6 @@
+{{#user}}
+Name: Rahul Bhattacharjee
+Skills: HTML, CSS, JS, Python, C, C++, Java, DBMS, Postgres, Mongo, Flask, Django
+Email: rahuldecoded95@gmail.com
+{{/user}}
+
